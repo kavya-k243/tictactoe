@@ -9,12 +9,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Tic Tac Toe Game",
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.purple
-      ),
+      theme: ThemeData(primarySwatch: Colors.purple),
       home: HomePage(),
     );
   }
 }
 
+// kavya kavya la la la la 
 
