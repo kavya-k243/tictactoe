@@ -14,6 +14,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// kavya kavya la la la la 
-
